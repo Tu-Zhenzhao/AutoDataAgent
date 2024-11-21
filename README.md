@@ -44,6 +44,8 @@ AutoDataAgent is a powerful, modular system designed to automate the entire data
 
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or bugs you find.
 
+Thanks [Rafael](https://rafamartinezquiles.github.io)'s great work for AutoDataAgent main feature! 
+
 ## License
 
 This project is licensed under the MIT License.
